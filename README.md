@@ -2,4 +2,4 @@
 - The project uses a Microsoft SQL database, which is accessed through TempsPlus, a legacy program that lacks analytical capabilities.
 - The six tables analyzed include applicants, customers, history, summary, placements, and orders.
 - A hypothesis is proposed that profitability can be predicted by analyzing customer attributes.
-- A predictive machine learning model that allowed us to predict with significant certainty, the percentage profitability of a specific customer given his address, billing rate, and rate actually paid to workers is built.
+- A predictive machine learning model that allowed us to predict with significant certainty, the percentage profitability of a specific customer given his address, and historical billing rate is built.
